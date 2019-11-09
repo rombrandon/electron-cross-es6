@@ -16,7 +16,7 @@
   "dependencies": {
     "chromedriver": "^76.0.1",
     "core-js": "^2.6.5",
-    "electron-cross": "^0.0.3",
+    "electron-cross": "^0.0.4",
     "vue": "^2.6.10"
   },
   "devDependencies": {
